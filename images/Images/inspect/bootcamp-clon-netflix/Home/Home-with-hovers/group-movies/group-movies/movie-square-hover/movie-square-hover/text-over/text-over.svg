@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="94px" viewBox="0 0 355 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>0FA9A831-B003-4667-B4C4-0FEFE817115D-42362-00033070AEF8B9F7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-with-hovers" transform="translate(-509.000000, -1220.000000)">
+            <g id="group-movies" transform="translate(58.000000, 1151.000000)">
+                <g id="movie-square-hover">
+                    <g transform="translate(444.000000, 35.000000)">
+                        <g id="text-over">
+                            <g transform="translate(7.000000, 35.000000)">
+                                <g>
+                                    <text id="Doctor-Strange" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="1.20000005" fill="#FFFFFF">
+                                        <tspan x="0" y="33.877551">Doctor Strang</tspan>
+                                        <tspan x="114.310938" y="33.877551">e</tspan>
+                                    </text>
+                                    <text id="He’s-a-broken-man-of" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                                        <tspan x="0" y="53.122449">He’s a broken man of science. And he’s desperate. His</tspan>
+                                        <tspan x="0" y="71.122449">last hope for a fix involves metaphysics and magic. Life is</tspan>
+                                        <tspan x="0" y="89.122449">strange.</tspan>
+                                    </text>
+                                    <text id="97%-Match" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.400000006" fill="#46D36A">
+                                        <tspan x="0" y="47.6530612">97% Matc</tspan>
+                                        <tspan x="65.4480469" y="47.6530612">h</tspan>
+                                    </text>
+                                    <text id="1h-55m" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.300000012" fill="#FFFFFF">
+                                        <tspan x="69.3707865" y="47.6530612">1h 55</tspan>
+                                        <tspan x="105.904966" y="47.6530612">m</tspan>
+                                    </text>
+                                    <g id="rating" transform="translate(44.044944, 36.918367)">
+                                        <rect id="Rectangle" stroke-opacity="0.409165534" stroke="#FFFFFF" x="0.5" y="0.5" width="19.9213483" height="10.0204082"></rect>
+                                        <text id="13+" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.300000012" fill="#FFFFFF">
+                                            <tspan x="3.85393258" y="10.1836735">13+</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="btn-play" transform="translate(0.550562, 0.000000)">
+                                        <ellipse id="Oval" stroke="#FFFFFF" fill-opacity="0.506538723" fill="#000000" cx="9.35955056" cy="9.36734694" rx="9.35955056" ry="9.36734694"></ellipse>
+                                        <path d="M11.1890859,7.09855162 L13.8405983,11.5830432 C14.1216864,12.0584461 13.964163,12.6717032 13.48876,12.9527912 C13.3346308,13.0439221 13.1588601,13.091998 12.9798052,13.091998 L7.6767802,13.091998 C7.12449545,13.091998 6.6767802,12.6442828 6.6767802,12.091998 C6.6767802,11.9129431 6.72485611,11.7371724 6.815987,11.5830432 L9.46749948,7.09855162 C9.74858751,6.62314867 10.3618446,6.46562529 10.8372476,6.74671332 C10.9822975,6.83247591 11.1033233,6.95350172 11.1890859,7.09855162 Z" id="Triangle" fill="#E50A13" transform="translate(10.328293, 9.367347) rotate(90.000000) translate(-10.328293, -9.367347) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

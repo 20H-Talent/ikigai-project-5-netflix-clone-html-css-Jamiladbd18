@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="4px" viewBox="0 0 132 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>A1C381CC-3ABA-40FD-BE46-4FADA5A3218A-42362-00033070AEF56456</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-with-hovers" transform="translate(-102.000000, -1316.000000)">
+            <g id="group-movies" transform="translate(58.000000, 1151.000000)">
+                <g id="movie-rect">
+                    <g transform="translate(2.000000, 36.000000)">
+                        <g id="progress-bar">
+                            <g transform="translate(42.000000, 129.000000)">
+                                <g>
+                                    <rect id="progress-gris" fill="#606060" x="0" y="0" width="132" height="4"></rect>
+                                    <rect id="progress-rojo" fill="#B3212C" x="0" y="0" width="39" height="4"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
