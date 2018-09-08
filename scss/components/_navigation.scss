@@ -1,0 +1,56 @@
+
+.navigation {
+    @extend %display;
+    height: 3em;
+    width: 100%;
+    // margin-top: 0.5em;
+}
+
+.main-nav {
+    width: 45%;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 58px;
+    margin-top: 1.8em;
+}
+
+
+.main-nav li {
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    font-size: 14.85px;
+    color: white;
+}
+
+.main-nav ul {
+    display: inline-flex;
+    margin-bottom: 0.6em;
+}
+
+.main-nav a {
+    text-decoration: none;
+}
+
+.home {
+    margin-right: 21px;
+    margin-left: 44px;
+}
+
+.tv,
+.recently {
+    margin-right: 16px;
+}
+
+
+.recently {
+    margin-right: 19px;
+}
+
+.movies {
+    margin-right: 19px;
+}
+.main-nav {
+    width: 45%;
+}
+

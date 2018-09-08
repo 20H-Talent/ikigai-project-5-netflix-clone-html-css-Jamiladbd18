@@ -1,0 +1,44 @@
+//background image
+
+body {
+    font-family: Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url(../../images/Home/Home-with-hovers/banner/pelicula-inocents.png);
+    background-repeat: no-repeat;
+}
+p,
+h2,
+li,
+ a {
+    color: white;
+}
+//general div
+
+.description-film {
+    margin-left: 58px;
+}
+
+//title
+
+h1 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 16px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 5.5px;
+    letter-spacing: 0.2px;
+}
+
+
+.paragraph {
+    width: 488px;
+    height: 75px;
+}
+

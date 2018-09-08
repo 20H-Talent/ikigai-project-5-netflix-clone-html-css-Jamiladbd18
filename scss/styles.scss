@@ -1,12 +1,13 @@
 //Folders Import
 
-@import 'utilities/_index.scss',
-        'base/_index.scss',
-        'components/_index.scss';
+@import 'components/_index.scss',
+        'utilities/_index.scss',
+        'base/_index.scss';
+        
 
 //Image background
 
-html.debug {
+html {
 	background: transparent url(../mockups/00-home.jpg) no-repeat top left;
 	background-size: 100%;
 	
